@@ -1,4 +1,4 @@
-name: CI/CD deploy maste
+name: CI/CD deploy master
 on: 
   push:
    # branches: [ "deploy-release"]
